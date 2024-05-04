@@ -1,0 +1,11 @@
+package interfazImplementacion;
+
+import interfaz.Strategy;
+
+public class ConcreteStrategyAdd implements Strategy {
+
+    @Override
+    public Number execute(int a, int b) {
+        return a + b;
+    }
+}
