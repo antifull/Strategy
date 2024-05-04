@@ -1,0 +1,2 @@
+# Strategy
+Patrón Estrategia
